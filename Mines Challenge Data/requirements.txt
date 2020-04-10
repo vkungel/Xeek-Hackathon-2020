@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly
+scipy
+mplstereonet
+shapely
+pyny3d
