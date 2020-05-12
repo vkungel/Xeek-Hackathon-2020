@@ -45,19 +45,15 @@ Contestants will be allowed one submission during the Challenge period.  Submiss
 
 Tasks:
 ------------------------------------------------------------------------------------
- <?xml version="1.0"?>
-    <store>
-        <book>
-            <Difficulty(max.5)>2</Difficulty(max.5)>
-            <Challenge>Fault Metrics</Challenge>
-            <Points>4.00</Points>
-        </book>
-           <book>
-            <Difficulty(max.5)>1</Difficulty(max.5)>
-            <Challenge>Stereonet plot of faults</Challenge>
-            <Points>1</Points>
-        </book>
-    </store>
+
+| Difficulty (max. 5)| Challenge | Points |
+| ------------- | ------------- | ------------- |
+| 2  | Fault Metrics  | 4|
+| 1  | Stereonet plot of faults  | 1|
+| 1  | Unstructured classification  | 2|
+| 2  | Fault intersection  | 3|
+| 4  | Fault Segmentation - Synthetic  | 8|
+| 5  | Fault Segmentation - Australia  | 10|
 
 
 Evaluation Criteria
